@@ -1,6 +1,5 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516124871778">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516125204185">
   <folder name="assets">
-    <file name="kvb.mp4" crc="3916897797" seo="true" mt="1516123114000"/>
     <file name="kvb_2.mp4" crc="373942481" seo="true" mt="1516124249000"/>
   </folder>
   <folder name="css">
