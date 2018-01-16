@@ -17,15 +17,23 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Homepage</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=316582996" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=458130492" id="pagesheet"/>
+    <!--custom head HTML-->
+  <style> .vid { position: relative; width: 100%; height: 100vh: } .vid video { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); min-height: 100%; min-with: 100%; } </style>﻿
+ </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="clip_frame colelem" id="u156"><!-- image -->
-    <img class="block" id="u156_img" src="images/bretter_together-crop-u156.jpg?crc=31833926" alt="" data-heightwidthratio="1.5478353821485837" data-image-width="1871" data-image-height="2896"/>
+  <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="grpelem" id="u206"><!-- custom html -->
+    <video width="1536" height="2304" autoplay loop>
+<source src="assets/kvb_2.mp4" type="video/mp4">
+</video>
+
    </div>
-   <div class="verticalspacer" data-offset-top="2896" data-content-above-spacer="2895" data-content-below-spacer="613" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="2555" data-content-above-spacer="2555" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="browser_width grpelem" id="u222-bw">
+    <div id="u222"><!-- simple frame --></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -42,6 +50,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
