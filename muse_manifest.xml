@@ -1,16 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516574397414">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516574691504">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="414659693" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="468114456" seo="true" mt="1516574669599" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4187576384" ref="index"/>
     <file name="nomq_index.css" crc="4233327861" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
@@ -21,7 +28,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bretter_together.jpg" crc="143210177" seo="true" ref="index">
+    <file name="bretter_together.jpg" crc="218959345" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bretter_together_muse_oben320x422.png" crc="292848783" seo="true" ref="index">
@@ -30,6 +38,12 @@
     <file name="kvb_sschwarz_unten320x484.jpg" crc="181068924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="bretter_together_muse_oben380x501.png" crc="3870968601" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kvb_sschwarz_unten380x574.jpg" crc="263956725" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="83869746" seo="true" mt="1516574380767" redirect="true"/>
+  <file name="index.html" crc="125451148" seo="true" mt="1516574627814" redirect="true"/>
 </manifest>
