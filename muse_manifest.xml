@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516575479504">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516575939459">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="155049060" ref="phone>index"/>
+      <file name="index.css" crc="113171458" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="65659211" seo="true" mt="1516575451180" redirect="true"/>
+    <file name="index.html" crc="4129862949" seo="true" mt="1516575887517" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -20,23 +20,20 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bretter_together_muse_oben.png" crc="3878274885" seo="true" ref="index">
+    <file name="bretter_together_muse_oben.png" crc="3878274885" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kvb_sschwarz_unten.jpg" crc="4057620978" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bretter_together.jpg" crc="392503217" seo="true" ref="index:phone>index">
+    <file name="bretter_together.jpg" crc="4238211623" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bretter_together_muse_oben320x422.png" crc="292848783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kvb_sschwarz_unten320x484.jpg" crc="181068924" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bretter_together_muse_oben640x844.png" crc="4141162961" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
