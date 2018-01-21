@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516573623456">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516574045824">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="99113076" ref="phone>index"/>
+      <file name="index.css" crc="311562856" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="272267959" seo="true" mt="1516573618072" redirect="true"/>
+    <file name="index.html" crc="4192997391" seo="true" mt="1516574032765" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -29,11 +29,11 @@
     <file name="bretter_together_muse_oben640x844.png" crc="4141162961" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kvb_sschwarz_unten640x967.jpg" crc="3935632631" seo="true" ref="phone>index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bretter_together.jpg" crc="392503217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bretter_together.jpg" crc="392503217" seo="true" ref="index:phone>index">
+    <file name="bretter_together320x481.jpg" crc="143210177" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
