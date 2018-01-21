@@ -17,10 +17,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>SimpleVideo</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4036342248" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=266553438" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=532928807" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=495030265" id="nomq_pagesheet"/>
   <![endif]-->
    </head>
  <body>
@@ -29,7 +29,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix" id="page"><!-- group -->
     <div class="clearfix grpelem" id="pu2472"><!-- group -->
      <div class="grpelem" id="u2472"><!-- custom html -->
-      <iframe width="1080" height="1800" src="https://www.youtube.com/embed/2TsW2eZ1InM?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+      <iframe width="1080" height="1800" src="https://www.youtube.com/embed/2TsW2eZ1InM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
      </div>
      <div class="clip_frame grpelem" id="u2025" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
       <img class="block temp_no_img_src" id="u2025_img" data-orig-src="images/bretter_together_muse_oben.png?crc=3878274885" alt="" width="1080" height="1423" src="images/blank.gif?crc=4208392903"/>
@@ -43,17 +43,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_640" data-max-width="640"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem" id="pu2446"><!-- group -->
-     <div class="browser_width grpelem" id="u2446-bw">
-      <div id="u2446"><!-- custom html -->
-       <iframe width="640" height="1200" src="https://www.youtube.com/embed/2TsW2eZ1InM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
-      </div>
-     </div>
-     <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u2025"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bretter_together_muse_oben640x844.png?crc=4141162961" alt="" width="640" height="843" data-orig-id="u2025_img" src="images/blank.gif?crc=4208392903"/>
-     </div>
+    <div class="clip_frame" id="u2568"><!-- image -->
+     <img class="block temp_no_img_src" id="u2568_img" data-orig-src="images/bretter_together.jpg?crc=392503217" alt="" width="640" height="960" src="images/blank.gif?crc=4208392903"/>
     </div>
-    <div class="verticalspacer" data-offset-top="1292" data-content-above-spacer="1292" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u2025"><!-- image -->
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bretter_together_muse_oben640x844.png?crc=4141162961" alt="" width="640" height="843" data-orig-id="u2025_img" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <div class="verticalspacer" data-offset-top="1324" data-content-above-spacer="1323" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clip_frame grpelem temp_no_id" data-orig-id="u2285"><!-- image -->
      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kvb_sschwarz_unten640x967.jpg?crc=3935632631" alt="" data-heightwidthratio="1.5109375" data-image-width="640" data-image-height="967" data-orig-id="u2285_img" src="images/blank.gif?crc=4208392903"/>
     </div>
@@ -74,8 +70,6 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
