@@ -1,10 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516577381089">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516577593586">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="91906282" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="189376291" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="456144807" seo="true" mt="1516577338478" redirect="true"/>
+    <file name="index.html" crc="3976886218" seo="true" mt="1516577556292" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -25,19 +24,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bretter_together_muse_oben320x422.png" crc="388843488" seo="true" ref="index">
+    <file name="bretter_together_muse_oben320x422.png" crc="388843488" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bretter_together360x541.jpg" crc="3911192219" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bretter_together_2x.jpg" crc="4229804435" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bretter_together_muse_oben360x475.png" crc="440483946" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bretter_together_muse_oben360x475_2x.png" crc="4064177421" seo="true" ref="phone>index">
+    <file name="bretter_together_2x.jpg" crc="16736098" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bretter_together_muse_oben_2x.png" crc="49212259" seo="true" ref="index">
@@ -49,13 +39,13 @@
     <file name="kvb_sschwarz_unten_2x.png" crc="3857366895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bretter_together320x481.jpg" crc="4264170434" seo="true" ref="index">
+    <file name="bretter_together320x481.jpg" crc="79246599" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bretter_together320x481_2x.jpg" crc="16736098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bretter_together_muse_oben320x422_2x.png" crc="3955804059" seo="true" ref="index">
+    <file name="bretter_together_muse_oben320x422_2x.png" crc="3955804059" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kvb_sschwarz_unten320x484.png" crc="3989304526" seo="true" ref="index">
