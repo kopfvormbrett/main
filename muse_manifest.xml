@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516572727082">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516573136417">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4117385034" ref="index"/>
+    <file name="index.css" crc="256079428" ref="index"/>
     <file name="nomq_index.css" crc="499009761" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -31,5 +31,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="5809270" seo="true" mt="1516572701772" redirect="true"/>
+  <file name="index.html" crc="3826828087" seo="true" mt="1516573062000" redirect="true"/>
 </manifest>
