@@ -38,29 +38,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix" id="page"><!-- group -->
     <div class="clearfix grpelem" id="pu2472"><!-- group -->
      <div class="grpelem" id="u2472"><!-- custom html -->
-      <iframe width="1080" height="1800" src="https://www.youtube.com/embed/2TsW2eZ1InM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+      <iframe width="1080" height="1800" src="https://www.youtube.com/embed/2TsW2eZ1InM?autoplay=1&loop=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
      </div>
      <div class="clip_frame grpelem" id="u2025" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-      <img class="block temp_no_img_src" id="u2025_img" data-orig-src="images/bretter_together_muse_oben.png?crc=3878274885" alt="" width="1080" height="1423" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u2025_img" data-orig-src="images/bretter_together_muse_oben.png?crc=74059149" data-hidpi-src="images/bretter_together_muse_oben_2x.png?crc=49212259" alt="" width="1080" height="1423" src="images/blank.gif?crc=4208392903"/>
      </div>
     </div>
     <div class="verticalspacer" data-offset-top="2230" data-content-above-spacer="2229" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clip_frame grpelem" id="u2285"><!-- image -->
-     <img class="block temp_no_img_src" id="u2285_img" data-orig-src="images/kvb_sschwarz_unten.jpg?crc=4057620978" alt="" data-heightwidthratio="1.510185185185185" data-image-width="1080" data-image-height="1631" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_img_src" id="u2285_img" data-orig-src="images/kvb_sschwarz_unten.png?crc=180708540" data-hidpi-src="images/kvb_sschwarz_unten_2x.png?crc=3857366895" alt="" data-heightwidthratio="1.510185185185185" data-image-width="1080" data-image-height="1631" src="images/blank.gif?crc=4208392903"/>
     </div>
    </div>
   </div>
   <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clip_frame" id="u2568"><!-- image -->
-     <img class="block temp_no_img_src" id="u2568_img" data-orig-src="images/bretter_together.jpg?crc=218959345" alt="" width="320" height="480" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_img_src" id="u2568_img" data-orig-src="images/bretter_together320x481.jpg?crc=4264170434" data-hidpi-src="images/bretter_together320x481_2x.jpg?crc=16736098" alt="" width="320" height="480" src="images/blank.gif?crc=4208392903"/>
     </div>
     <div class="clip_frame grpelem temp_no_id" data-orig-id="u2025"><!-- image -->
-     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bretter_together_muse_oben320x422.png?crc=292848783" alt="" width="320" height="422" data-orig-id="u2025_img" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bretter_together_muse_oben320x422.png?crc=388843488" data-hidpi-src="images/bretter_together_muse_oben320x422_2x.png?crc=3955804059" alt="" width="320" height="422" data-orig-id="u2025_img" src="images/blank.gif?crc=4208392903"/>
     </div>
     <div class="verticalspacer" data-offset-top="662" data-content-above-spacer="661" data-content-below-spacer="62"></div>
     <div class="clip_frame grpelem temp_no_id" data-orig-id="u2285"><!-- image -->
-     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kvb_sschwarz_unten320x484.jpg?crc=181068924" alt="" width="320" height="483" data-orig-id="u2285_img" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kvb_sschwarz_unten320x484.png?crc=3989304526" data-hidpi-src="images/kvb_sschwarz_unten320x484_2x.png?crc=467451919" alt="" width="320" height="483" data-orig-id="u2285_img" src="images/blank.gif?crc=4208392903"/>
     </div>
    </div>
   </div>
@@ -78,6 +78,7 @@ setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
