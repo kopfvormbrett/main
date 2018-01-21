@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516575939459">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516576028837">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="113171458" ref="phone>index"/>
+      <file name="index.css" crc="204415676" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4129862949" seo="true" mt="1516575887517" redirect="true"/>
+    <file name="index.html" crc="33272723" seo="true" mt="1516576018864" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
