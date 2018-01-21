@@ -5,7 +5,6 @@
     <lastmod>2018-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://kopfvormbrett.de/phone/index.html"/>
     <image:image>
       <image:loc>http://kopfvormbrett.de/images/bretter_together_muse_oben.png</image:loc>
     </image:image>
@@ -13,10 +12,13 @@
       <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kopfvormbrett.de/images/bretter_together_muse_oben640x844.png</image:loc>
+      <image:loc>http://kopfvormbrett.de/images/bretter_together.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kopfvormbrett.de/images/bretter_together.jpg</image:loc>
+      <image:loc>http://kopfvormbrett.de/images/bretter_together_muse_oben320x422.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten320x484.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
