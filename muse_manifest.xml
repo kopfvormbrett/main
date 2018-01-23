@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516702598444">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516703497535">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3824671712" ref="index"/>
-    <file name="nomq_index.css" crc="3972777190" ref="index"/>
+    <file name="index.css" crc="469038027" ref="index"/>
+    <file name="nomq_index.css" crc="414818516" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,7 +36,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u393-20.png" crc="200293073" ref="index"/>
+    <file name="u393-20.png" crc="3864693295" ref="index"/>
     <file name="u493-21.png" crc="4121840378" ref="index"/>
     <file name="u496-26.png" crc="3923874967" ref="index"/>
     <file name="angry-u499.png" crc="3923377261" ref="index"/>
@@ -55,8 +55,8 @@
     <file name="kvb_sschwarz_unten3-crop-u357.png" crc="201152101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u393-20_2x.png" crc="3781974559" ref="index"/>
-    <file name="kvb_sschwarz_unten3-crop-u478.png" crc="3859000677" seo="true" ref="index">
+    <file name="u393-20_2x.png" crc="4252916231" ref="index"/>
+    <file name="kvb_sschwarz_unten3-crop-u478.png" crc="4176792411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u493-21_2x.png" crc="4017368820" ref="index"/>
@@ -115,5 +115,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4138773332" seo="true" mt="1516702330473" redirect="true"/>
+  <file name="index.html" crc="3902293362" seo="true" mt="1516703468177" redirect="true"/>
 </manifest>
