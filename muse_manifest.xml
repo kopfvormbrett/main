@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516671162379">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1516698427977">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="118710374" ref="index"/>
+    <file name="index.css" crc="421317814" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,49 +22,30 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="wandtattoo-kuh-u765.png" crc="172031215" ref="index"/>
-    <file name="wandtattoo-kuh-u765_2x.png" crc="4256771426" ref="index"/>
-    <file name="wandtattoo-kuh-u775.png" crc="465869524" ref="index"/>
-    <file name="wandtattoo-kuh-u775_2x.png" crc="4112861264" ref="index"/>
-    <file name="wandtattoo-kuh-u782.png" crc="4106765711" ref="index"/>
-    <file name="wandtattoo-kuh-u782_2x.png" crc="4054353663" ref="index"/>
-    <file name="r5_300dpi-u571.png" crc="4029733152" ref="index"/>
-    <file name="r5_300dpi-u571_2x.png" crc="254903742" ref="index"/>
-    <file name="r5_300dpi2-u590.png" crc="3911401174" ref="index"/>
-    <file name="r5_300dpi2-u590_2x.png" crc="526168891" ref="index"/>
+    <file name="wandtattoo-kuh-u775.png" crc="3866289264" ref="index"/>
+    <file name="wandtattoo-kuh-u782.png" crc="298060849" ref="index"/>
+    <file name="r5_300dpi-u571.png" crc="429598438" ref="index"/>
+    <file name="r5_300dpi2-u590.png" crc="120820589" ref="index"/>
     <file name="kvb_sschwarz_unten2.jpg" crc="216814278" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kvb_sschwarz_unten3-crop-u357.png" crc="4089583458" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u393-20.png" crc="51702079" ref="index"/>
-    <file name="u393-20_2x.png" crc="90574232" ref="index"/>
-    <file name="kvb_sschwarz_unten3-crop-u478.png" crc="3784952115" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u493-21.png" crc="60862504" ref="index"/>
-    <file name="u493-21_2x.png" crc="122193172" ref="index"/>
     <file name="u496-26.png" crc="382279898" ref="index"/>
-    <file name="u496-26_2x.png" crc="4122575043" ref="index"/>
-    <file name="angry-u499.png" crc="3923377261" ref="index"/>
-    <file name="angry-u499_2x.png" crc="428461116" ref="index"/>
-    <file name="angry-u521.png" crc="3964496470" ref="index"/>
-    <file name="angry-u521_2x.png" crc="4087483643" ref="index"/>
-    <file name="angry-u543.png" crc="4067851766" ref="index"/>
-    <file name="angry-u543_2x.png" crc="3978963599" ref="index"/>
-    <file name="angry-u557.png" crc="412435809" ref="index"/>
-    <file name="angry-u557_2x.png" crc="48950899" ref="index"/>
-    <file name="kvb_sschwarz_unten3-crop-u638.png" crc="399505110" seo="true" ref="index">
+    <file name="angry-u499.png" crc="4101926011" ref="index"/>
+    <file name="angry-u521.png" crc="8198896" ref="index"/>
+    <file name="angry-u543.png" crc="4274527423" ref="index"/>
+    <file name="angry-u557.png" crc="4127547089" ref="index"/>
+    <file name="kvb_sschwarz_unten3-crop-u638.png" crc="4092586406" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u731-62.png" crc="3979394451" ref="index"/>
-    <file name="u731-62_2x.png" crc="3981489076" ref="index"/>
-    <file name="kvb_sschwarz_unten3-crop-u907.png" crc="4180575057" seo="true" ref="index">
+    <file name="kvb_sschwarz_unten3.png" crc="494725373" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="kvb_sschwarz_unten3-crop-u926.png" crc="4180575057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4284937328" seo="true" mt="1516671049632" redirect="true"/>
+  <file name="index.html" crc="162461815" seo="true" mt="1516653456327" redirect="true"/>
 </manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kopfvormbrett.de/index.html</loc>
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,19 +15,10 @@
       <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3-crop-u357.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3-crop-u478.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3-crop-u638.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3-crop-u907.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3-crop-u926.png</image:loc>
+      <image:loc>http://kopfvormbrett.de/images/kvb_sschwarz_unten3.png</image:loc>
     </image:image>
   </url>
 </urlset>
