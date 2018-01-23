@@ -48,6 +48,12 @@
     <image:image>
       <image:loc>http://kopfvormbrett.de/images/bretter_together_muse_oben1420x1872.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://kopfvormbrett.de/images/karte_neu_layered.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kopfvormbrett.de/images/karte_neu_layered1890x874.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kopfvormbrett.de/phone/impressum.html</loc>

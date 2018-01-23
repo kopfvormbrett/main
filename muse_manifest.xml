@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516716855787">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516719344482">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3948084959" ref="phone>index"/>
@@ -11,8 +11,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3797308964" ref="index"/>
-    <file name="nomq_index.css" crc="3834813432" ref="index"/>
+    <file name="index.css" crc="3898529137" ref="index"/>
+    <file name="nomq_index.css" crc="161025458" ref="index"/>
     <file name="ipressum.css" crc="4247184220" ref="ipressum"/>
     <file name="nomq_ipressum.css" crc="4144580396" ref="ipressum"/>
   </folder>
@@ -180,7 +180,13 @@
     <file name="u4385-42.png" crc="28885659" ref="index"/>
     <file name="u4385-4_2x2.png" crc="4147498119" ref="index"/>
     <file name="favicon.ico" crc="112051959" ref="index"/>
+    <file name="karte_neu_layered.jpg" crc="201767188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="karte_neu_layered1890x874.jpg" crc="31337269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3897890283" seo="true" mt="1516716803833" redirect="true"/>
+  <file name="index.html" crc="482664169" seo="true" mt="1516719229877" redirect="true"/>
   <file name="ipressum.html" crc="489425169" seo="true" mt="1516716184074" redirect="true"/>
 </manifest>
