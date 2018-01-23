@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516716591693">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1516716855787">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3948084959" ref="phone>index"/>
@@ -181,6 +181,6 @@
     <file name="u4385-4_2x2.png" crc="4147498119" ref="index"/>
     <file name="favicon.ico" crc="112051959" ref="index"/>
   </folder>
-  <file name="index.html" crc="3946705664" seo="true" mt="1516716552938" redirect="true"/>
+  <file name="index.html" crc="3897890283" seo="true" mt="1516716803833" redirect="true"/>
   <file name="ipressum.html" crc="489425169" seo="true" mt="1516716184074" redirect="true"/>
 </manifest>
