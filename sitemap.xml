@@ -49,4 +49,16 @@
       <image:loc>http://kopfvormbrett.de/images/bretter_together_muse_oben1420x1872.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://kopfvormbrett.de/phone/impressum.html</loc>
+    <lastmod>2018-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kopfvormbrett.de/ipressum.html</loc>
+    <lastmod>2018-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
