@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517746434880">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517746775426">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="462703937" ref="phone>index"/>
-      <file name="impressum.css" crc="148758780" ref="phone>impressum"/>
+      <file name="index.css" crc="4153998720" ref="phone>index"/>
+      <file name="impressum.css" crc="4206670485" ref="phone>impressum"/>
     </folder>
-    <file name="index.html" crc="3899375198" seo="true" mt="1517746385888" redirect="true"/>
-    <file name="impressum.html" crc="4268865291" seo="true" mt="1517746385888" redirect="false"/>
+    <file name="index.html" crc="330824503" seo="true" mt="1517746751640" redirect="true"/>
+    <file name="impressum.html" crc="43432803" seo="true" mt="1517746751640" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
