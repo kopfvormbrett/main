@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517746977472">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517747598514">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="344988603" ref="phone>index"/>
       <file name="impressum.css" crc="4206670485" ref="phone>impressum"/>
     </folder>
-    <file name="index.html" crc="4041235553" seo="true" mt="1517746942581" redirect="true"/>
+    <file name="index.html" crc="193365947" seo="true" mt="1517747573989" redirect="true"/>
     <file name="impressum.html" crc="43432803" seo="true" mt="1517746918182" redirect="false"/>
   </folder>
   <folder name="css">
