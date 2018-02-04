@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517745299619">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x,2x" timestamp="1517745517011">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="175332037" ref="phone>index"/>
+      <file name="index.css" crc="3913112883" ref="phone>index"/>
       <file name="impressum.css" crc="279237556" ref="phone>impressum"/>
       <file name="nomq_impressum.css" crc="3824530138" ref="phone>impressum"/>
     </folder>
-    <file name="index.html" crc="3813005823" seo="true" mt="1517745278575" redirect="true"/>
+    <file name="index.html" crc="244096991" seo="true" mt="1517745505133" redirect="true"/>
     <file name="impressum.html" crc="3975048166" seo="true" mt="1516714992385" redirect="false"/>
   </folder>
   <folder name="css">
