@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1517760296943">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kopfvormbrett.de" resolutions="1x" timestamp="1517760383990">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="344988603" ref="phone>index"/>
@@ -10,8 +10,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3872688380" ref="index"/>
-    <file name="nomq_index.css" crc="4113210700" ref="index"/>
+    <file name="index.css" crc="4011971235" ref="index"/>
+    <file name="nomq_index.css" crc="507388595" ref="index"/>
     <file name="ipressum.css" crc="4247184220" ref="ipressum"/>
     <file name="nomq_ipressum.css" crc="4144580396" ref="ipressum"/>
   </folder>
@@ -107,6 +107,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="264385117" seo="true" mt="1517760278807" redirect="true"/>
+  <file name="index.html" crc="153758812" seo="true" mt="1517760366545" redirect="true"/>
   <file name="ipressum.html" crc="489425169" seo="true" mt="1516716184074" redirect="true"/>
 </manifest>
